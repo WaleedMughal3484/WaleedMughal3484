@@ -1,13 +1,13 @@
-# 👋 Hi, I’m Waleed Mughal!
+#  Hi, I’m Waleed Mughal!
 
-## 🚀 About Me
+## About Me
 
  Computer Science Co-op student at **Dalhousie University**.  
  Passionate about **Cybersecurity, Cloud Computing, Software Development**.  
  Experienced in software development and test automation through my co-op role at **Nautel**.  
  Focused on building secure, practical solutions and growing into a cybersecurity professional.
 
-## 🔧 Skills & Technologies
+## Skills & Technologies
 
 **Programming Languages:**  
 • Python • Java • C • C# • JavaScript • TypeScript • SQL
@@ -24,13 +24,13 @@
 **Testing & Development Tools:**  
 • Playwright • Cucumber • Git • GitHub • GitLab • Visual Studio Code • Linux
 
-## 📜 Certifications
+## Certifications
 
 • AWS Certified Cloud Practitioner  
 • SQL Foundations Certifications by Shiftkey 
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 • LinkedIn: [Waleed Mughal](https://www.linkedin.com/in/waleedmughal1/)  
 • Email: [waleedmughal485@gmail.com](mailto:waleedmughal485@gmail.com)
