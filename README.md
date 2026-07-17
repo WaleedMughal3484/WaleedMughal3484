@@ -5,7 +5,6 @@
  Computer Science Co-op student at **Dalhousie University**.  
  Passionate about **Cybersecurity, Cloud Computing, Software Development**.  
  Experienced in software development and test automation through my co-op role at **Nautel**.  
-
  Focused on building secure, practical solutions and growing into a cybersecurity professional.
 
 ## 🔧 Skills & Technologies
