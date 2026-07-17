@@ -32,5 +32,5 @@
 
 ## 📫 Connect With Me
 
-• [LinkedIn](https://www.linkedin.com/in/waleedmughal1/)  
+• LinkedIn: [Waleed Mughal](https://www.linkedin.com/in/waleedmughal1/)  
 • Email: [waleedmughal485@gmail.com](mailto:waleedmughal485@gmail.com)
