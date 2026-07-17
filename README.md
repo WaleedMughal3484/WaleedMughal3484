@@ -3,9 +3,9 @@
 ## 🚀 About Me
 
  Computer Science Co-op student at **Dalhousie University**.  
- Passionate about **Cybersecurity, Cloud Computing, Software Development, and AI**.  
- Experienced in software development, test automation, and web development through my co-op role at **Nautel**.  
- Currently strengthening my cybersecurity skills and working toward the **CompTIA Security+** certification.  
+ Passionate about **Cybersecurity, Cloud Computing, Software Development**.  
+ Experienced in software development and test automation through my co-op role at **Nautel**.  
+
  Focused on building secure, practical solutions and growing into a cybersecurity professional.
 
 ## 🔧 Skills & Technologies
@@ -28,9 +28,8 @@
 ## 📜 Certifications
 
 • AWS Certified Cloud Practitioner  
-• ISC2 Certified in Cybersecurity (CC)  
-• Cisco Introduction to Cybersecurity  
-• CompTIA Security+ — In Progress
+• SQL Foundations Certifications by Shiftkey 
+
 
 ## 📫 Connect With Me
 
