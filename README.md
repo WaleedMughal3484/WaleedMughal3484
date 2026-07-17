@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Waleed Mughal!
+#  Hi, I’m Waleed Mughal!
 
 ## 🚀 About Me
 
