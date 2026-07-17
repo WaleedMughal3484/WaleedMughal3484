@@ -33,4 +33,4 @@
 ## 📫 Connect With Me
 
 • [LinkedIn](https://www.linkedin.com/in/waleedmughal1/)  
-• [Email](mailto:waleedmughal485@gmail.com)
+• Email: [waleedmughal485@gmail.com](mailto:waleedmughal485@gmail.com)
