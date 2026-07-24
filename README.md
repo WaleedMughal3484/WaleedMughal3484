@@ -27,6 +27,8 @@
 ## 📜 Certifications
 
 • AWS Certified Cloud Practitioner  
+• SQL Foundations Certification by ShiftKey Academy
+
 
 ## 📫 Connect With Me
 
