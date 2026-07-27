@@ -26,9 +26,9 @@
 
 ## 📜 Certifications
 
-• AWS Certified Cloud Practitioner  
-• SQL Foundations Certification by ShiftKey Academy
-• Introduction to CyberSecurity (Cisco)
+- AWS Certified Cloud Practitioner
+- SQL Foundations Certification by ShiftKey Academy
+- Introduction to Cybersecurity (Cisco)
 
 ## 📫 Connect With Me
 
